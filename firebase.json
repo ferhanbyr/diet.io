@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"dietio","appId":"1:845210094020:ios:99c63b16c91b3bb906bc91","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"dietio","configurations":{"ios":"1:845210094020:ios:99c63b16c91b3bb906bc91"}}}}}}
